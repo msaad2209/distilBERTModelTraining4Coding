@@ -1,0 +1,1 @@
+the attached file is used to train the bert model for classification, so in details we have a quetion "what are befinits of using a product?" and there were expected responses generated using the GPT4. The rresponse are then used as data to train the distil-BERT model to predict the class.
